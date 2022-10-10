@@ -1,0 +1,7 @@
+1. Checkout the master branch.
+
+2. It is build on jdk 11, you must have jdk 1.8 or above to run this.
+
+3. Once it's master branch is checkout, Run the main method of the main class.
+
+4. Checkout the output file.
